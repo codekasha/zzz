@@ -1,3 +1,3 @@
-# hohoho remote
+REMOTE
 
 Je suis un soir
